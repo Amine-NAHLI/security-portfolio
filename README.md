@@ -1,30 +1,49 @@
-# Security Portfolio — Amine NAHLI
-# 🔐 Security Portfolio — Amine NAHLI
+# Amine NAHLI — Cybersecurity Portfolio
 
-## 👨 About Me
-Cybersecurity student based in Morocco | Pentesting & ethical hacking
-Currently following a structured roadmap toward OSCP certification
+Penetration Tester in Training · Morocco
 
-##  Current Goals
-- [ ] Complete TryHackMe beginner path
-- [ ] Get eJPT certification
-- [ ] Complete 10 HackTheBox machines
-- [ ] Obtain OSCP
+[TryHackMe](https://tryhackme.com/p/AmineNAHLI) 
+[HackTheBox](https://app.hackthebox.com/profile/AmineNAHLI) 
+[LinkedIn](https://linkedin.com/in/amine-nahli-48b2a734b) 
+nahli-ami@upf.ac.ma
 
-##  Skills In Progress
-- Linux & Bash scripting
-- Network fundamentals (TCP/IP, DNS, HTTP)
-- Web application testing (Burp Suite, OWASP Top 10)
-- CTF & labs (TryHackMe, HackTheBox)
+---
 
-##  Repository Structure
-- writeups/ → Machine & room writeups (TryHackMe, HackTheBox)
-- scripts/  → Custom Python/Bash tools
-- reports/  → Pentest reports
-- cheatsheets/ → Quick reference notes
-- certs/    → Certifications & badges
+## About
 
-##  Platforms
-- TryHackMe : [Amine-NAHLI](https://tryhackme.com)
-- HackTheBox : [Amine-NAHLI](https://hackthebox.com)
-- LinkedIn : [Amine NAHLI](https://linkedin.com/in/amine-nahli-48b2a734b)
+Cybersecurity student focused on offensive security and penetration testing. Building real-world skills through hands-on labs, CTF competitions, and structured learning toward the OSCP certification. Everything I learn is documented here — writeups, tools, reports, and notes — updated continuously as I progress.
+
+---
+
+## Technical Stack
+
+- **Operating System** — Kali Linux
+- **Network Analysis** — Nmap, Wireshark
+- **Web Testing** — Burp Suite, Gobuster, SQLMap
+- **Exploitation** — Metasploit Framework
+- **Scripting** — Python 3, Bash
+- **Version Control** — Git, GitHub
+
+---
+
+## Repository Contents
+
+- **writeups/** — CTF and lab writeups from TryHackMe and HackTheBox
+- **scripts/** — Custom recon and automation tools
+- **reports/** — Penetration testing reports
+- **cheatsheets/** — Personal reference documentation
+- **certs/** — Certifications and achievements
+
+---
+
+## Platforms
+
+- TryHackMe — https://tryhackme.com/p/AmineNAHLI
+- HackTheBox — https://app.hackthebox.com/profile/AmineNAHLI
+- LinkedIn — https://linkedin.com/in/amine-nahli-48b2a734b
+
+---
+
+## Certifications
+
+*In progress — updated as achieved*
